@@ -5,6 +5,5 @@
 - 📫 How to reach me https://www.facebook.com/nicetrybeni/
 
 <!---
-benipayoj/benipayoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+First ever README.md file created, which Github gave me as a template. This serves as my starting point to develop consistency, persistency and develop my critical thinking skills. In order to become a full stack developer.
 --->
